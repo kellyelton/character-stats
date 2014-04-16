@@ -1,0 +1,6 @@
+/src/*.tss
+/src/*.suo
+/src/CharacterStats/bin/Debug
+/src/CharacterStats/obj/Debug
+/src/Tester/bin/Debug
+/src/Tester/obj/Debug
